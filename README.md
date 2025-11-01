@@ -36,6 +36,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=beaglebone&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-35495E?style=for-the-badge&logo=yocto&logoColor=white)
 
 ---
 
