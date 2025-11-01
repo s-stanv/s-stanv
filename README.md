@@ -37,5 +37,3 @@
 💬 **Telegram:** [@sstanv](https://t.me/sstanv)
 
 ---
-
-⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*
