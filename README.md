@@ -1,15 +1,9 @@
----
-
-# 💻 Технический стек
-
 ## 🧠 Языки программирования  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
 
 ## 🧩 Фреймворки и библиотеки  
 ![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge)
@@ -23,14 +17,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
-
 ## 🗄️ Базы данных  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ## ⚙️ Инструменты и окружение  
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -44,8 +34,6 @@
 ![Clang](https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
----
-
 ## 🔩 Embedded & Hardware  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=beaglebone&logoColor=white)
@@ -53,14 +41,8 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-002952?style=for-the-badge&logo=freertos&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-35495E?style=for-the-badge&logo=yocto&logoColor=white)
 
----
-
 ## 📫 Контакты  
 📧 **Email:** [parosanl@yandex.ru](mailto:parosanl@yandex.ru)  
 💬 **Telegram:** [@sstanv](https://t.me/sstanv)  
-
----
-
-⭐ *Чистый код, высокая производительность, надёжность систем — мои главные принципы разработки.*
 
 ---
