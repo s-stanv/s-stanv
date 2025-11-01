@@ -31,9 +31,8 @@
 
 
 ## 📫 Контакты
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-💬 **Telegram:** [@yourhandle](https://t.me/yourhandle)
+📧 **Email:** parosanl@yandex.ru  
+💬 **Telegram:** [@sstanv](https://t.me/sstanv)
 
 ---
 
