@@ -32,6 +32,10 @@
 ![GCC](https://img.shields.io/badge/-GCC-000000?logo=gnu&logoColor=white)
 ![Clang](https://img.shields.io/badge/-Clang-262D3A?logo=llvm&logoColor=white)
 
+### ⚙️ Embedded
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![BeagleBone Black](https://img.shields.io/badge/-BeagleBone%20Black-000000?logo=beaglebone&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
 
 ## 📫 Контакты
 📧 **Email:** parosanl@yandex.ru  
