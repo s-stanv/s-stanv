@@ -14,6 +14,7 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/-OpenMP-00599C)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)
 
 ### 🗄️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
