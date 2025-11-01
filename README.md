@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexdev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-stanv&theme=dark)](https://git.io/streak-stats)
