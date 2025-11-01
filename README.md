@@ -18,12 +18,16 @@
 ### 🗄️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### 🧰 Инструменты и окружение
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![GCC](https://img.shields.io/badge/-GCC-000000?logo=gnu&logoColor=white)
 ![Clang](https://img.shields.io/badge/-Clang-262D3A?logo=llvm&logoColor=white)
 
