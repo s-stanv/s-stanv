@@ -46,6 +46,7 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-002952?style=for-the-badge&logo=freertos&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-35495E?style=for-the-badge&logo=yocto&logoColor=white)
+![Buildroot](https://img.shields.io/badge/Buildroot-ED1C24?style=for-the-badge)
 ![CAN bus](https://img.shields.io/badge/CAN%20bus-00599C?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-FFD43B?style=for-the-badge)
 
